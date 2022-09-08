@@ -4,5 +4,5 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-* `for`
-* `&&`, `||`, `!`
+* `for`: es un bucle que sirve para hacer tareas repetitivas, sin repetir codigo mas de lo necesario.
+* `&&`, `||`, `!`: Son los 3 operadores logicos más utilizados para valores buleanos, estos permiten saber si un operando es verdadero o falso. Usando && (Y) si las 2 expresiones son verdaderas devolvera true y si una de las 2 es falso, o si las 2 son falsas dará false. Usando || (O) será verdadero si uno o ambas expresiones son verdaderas sera true y si ambas son falsas dará false. El operador ! (not) se usa para negar una expresion.
