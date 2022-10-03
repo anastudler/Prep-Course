@@ -1,7 +1,7 @@
 En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Objetos
-	* Propiedades
-	* Métodos
-	* Bucle `for…in`
-	* Notación de puntos vs notación de corchetes
+	* Objetos: Son contenedores de datos diferentes sobre ese objeto. Definidos mediante una clave que contiene un valor de ese objeto. El valor puede ser desde un string hasta una funcion.
+	* Propiedades: Son variables o claves dentro del objeto a las que se le da un valor.
+	* Métodos: Son funciones dentro de un objeto.
+	* Bucle `for…in: es una forma de iterar sobre las claves y valores de objetos. Donde se declara una variable dentro(in) del objeto que recorre.
+	* Notación de puntos vs notación de corchetes: Son formas de asignar y acceder a valores dentro de un objeto. Con la notación de puntos podemos accedeer de la siguiente manera: objeto.claveDelObjeto. Mientras que la notación de corchetes se hace como con los arreglos: objeto[claveDelObjeto]
