@@ -1,0 +1,27 @@
+body {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/004/854/343/original/melting-pizza-logo-pizzeria-restaurant-with-melting-cheese-logo-icon-template-illustration-vector.jpg);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+}
+div {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    color: darkcyan;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: cornflowerblue;
+    padding: 50px;
+    border: 5px solid chocolate;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
